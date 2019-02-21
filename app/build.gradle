@@ -50,4 +50,5 @@ dependencies {
 
     //本地存储
     implementation 'com.orhanobut:hawk:2.0.1'
+
 }
